@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Khomgrit Phinitkitti
 
-<!--
-**Khomgrit-Phi/Khomgrit-Phi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 3D Artist turned 👨‍💻 Junior Software Developer  
+🌱 Recently graduated from Generation Thailand's Full-Stack Bootcamp  
+💡 Blending creativity with code to build intuitive, user-friendly web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **3D & Tools:** Three.js, Blender, Figma, Git, Postman
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [👕 Custom Product Designer](https://github.com/Khomgrit-Phi/seal-over-the-wall-frontEnd) | Upload designs and preview them on T-shirts, cups, and bags | React, Fabric.js, Cloudinary |
+| [🌐 3D Product Viewer](https://github.com/Khomgrit-Phi/op-1) | Interactive 3D model viewer in a landing page | Three.js, React |
+
+---
+
+### 🔍 What I'm Looking For
+I'm open to **frontend or full-stack roles** where I can contribute to real-world projects and grow alongside passionate teams — especially opportunities like [Freewill Solutions](https://www.freewillsolutions.com/).  
+
+---
+
+### 📫 Let’s Connect
+- 📧 Email: khomgrit.ph@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/khomgrit](https://linkedin.com/in/khomgrit)  
+- 🌐 Portfolio: *(Coming soon)*  
+- 🧠 Fun Fact: I love turning 3D ideas into interactive browser experiences.
+
+---
+
+⭐️ Thanks for visiting my profile!
