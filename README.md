@@ -24,7 +24,7 @@
 ---
 
 ### 🔍 What I'm Looking For
-I'm open to **frontend or full-stack roles** where I can contribute to real-world projects and grow alongside passionate teams — especially opportunities like [Freewill Solutions](https://www.freewillsolutions.com/).  
+I'm open to **frontend or full-stack roles** where I can contribute to real-world projects and grow alongside passionate teams.  
 
 ---
 
