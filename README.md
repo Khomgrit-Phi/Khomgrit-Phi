@@ -10,7 +10,7 @@
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
-- **3D & Tools:** Three.js, Blender, Figma, Git, Postman
+- **3D & Tools:** Three.js, Cinema4d, Figma, Git, Postman
 
 ---
 
