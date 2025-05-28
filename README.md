@@ -31,7 +31,7 @@ I'm open to **frontend or full-stack roles** where I can contribute to real-worl
 ### 📫 Let’s Connect
 - 📧 Email: khomgrit.ph@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/khomgrit](https://linkedin.com/in/khomgrit)  
-- 🌐 Portfolio: *(Coming soon)*  
+- 🌐 Portfolio: https://portfolios-khomgrit-phinitkittis-projects.vercel.app
 - 🧠 Fun Fact: I love turning 3D ideas into interactive browser experiences.
 
 ---
